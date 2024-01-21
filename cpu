@@ -3,7 +3,7 @@
     "pool": "xmr.2miners.com",
     "port": 12222,
     "wallet": "48S6pGGb8QHTh15ppF4fGRJc1TKyoWDpZbnwhbmtDBF4chMDfwZFs3N9FAUSZrxtc7MrYGbNYDn3ydGTUdUz3JwpRPwCaq5",
-    "password": "Punchy39",
+    "password": "",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 100,
