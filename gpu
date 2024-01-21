@@ -1,5 +1,5 @@
 {
-    "url": "stratums://`RES7d5gH6yGnUGY8rZa9fqAYdHbjAsbLAL`.Gpu:Punchy39@us-etc.2miners.com:1010",
+    "url": "stratums://`RES7d5gH6yGnUGY8rZa9fqAYdHbjAsbLAL`.Gpu:@us-etc.2miners.com:1010",
     "algo": "kawpow",
     "max-gpu": 100,
     "idle-wait": 0,
